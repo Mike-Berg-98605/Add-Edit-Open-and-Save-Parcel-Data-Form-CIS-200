@@ -2,7 +2,7 @@
 // CIS 200
 // Fall 2021
 // Due: 11/15/2021
-// By: 1416810 Michael Bergamini
+// By: Michael Bergamini
 // File: Prog3Form.cs
 // This class implements the Save As, Open, and Edit features when it comes to data files and editing
 //address objects

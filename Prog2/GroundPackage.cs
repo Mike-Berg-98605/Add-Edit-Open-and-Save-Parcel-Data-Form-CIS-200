@@ -2,7 +2,6 @@
 // CIS 200-01
 // Fall 2020
 // Due: 9/21/2020
-// By: Andrew L. Wright (students use Grading ID)
 
 // File: GroundPackage.cs
 // The Package class is a concrete derived class from Package. It adds

@@ -2,7 +2,6 @@
 // CIS 200-76
 // Fall 2020
 // Due: 9/7/2020
-// By: Andrew L. Wright (students use Grading ID)
 
 // File: Letter.cs
 // The Letter class is a concrete derived class of Parcel. Letters
